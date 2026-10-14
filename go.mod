@@ -1,6 +1,6 @@
 module github.com/versent/saml2aws/v2
 
-go 1.21.0
+go 1.22
 
 toolchain go1.22.5
 
@@ -19,8 +19,8 @@ require (
 	github.com/keybase/go-keychain v0.0.0-20211119201326-e02f34051621
 	github.com/marshallbrekka/go-u2fhost v0.0.0-20210111072507-3ccdec8c8105
 	github.com/mitchellh/go-homedir v1.1.0
+	github.com/mxschmitt/playwright-go v0.6201.1
 	github.com/pkg/errors v0.9.1
-	github.com/playwright-community/playwright-go v0.4702.0
 	github.com/sirupsen/logrus v1.9.3
 	github.com/skratchdot/open-golang v0.0.0-20200116055534-eef842397966
 	github.com/stretchr/testify v1.10.0
@@ -36,7 +36,7 @@ require (
 	github.com/andybalholm/cascadia v1.3.2 // indirect
 	github.com/bearsh/hid v1.3.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/deckarep/golang-set/v2 v2.6.0 // indirect
+	github.com/deckarep/golang-set/v2 v2.8.0 // indirect
 	github.com/dvsekhvalnov/jose2go v1.6.0 // indirect
 	github.com/go-jose/go-jose/v3 v3.0.4 // indirect
 	github.com/go-stack/stack v1.8.1 // indirect
